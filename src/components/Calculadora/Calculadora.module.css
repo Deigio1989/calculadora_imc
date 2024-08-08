@@ -1,0 +1,23 @@
+.container{
+    margin: auto;
+    margin-top: 36px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color:var(--corPrincipal);
+    max-width: 760px;
+    width: 100%;
+    border-radius: 8px;
+    padding-bottom: 60px;
+}
+
+h1{
+    padding: 8px;
+    margin-top: 36px;
+    margin-bottom: 16px;
+    background-color:var(--corSecundaria);
+    padding: 8px;
+    color: aliceblue;
+    border-radius: 8px;
+  
+}
